@@ -8,7 +8,7 @@ Feel free to explore the different sections of the cookbook and dive into the re
 
 We hope that this cookbook will serve as a valuable resource for you as you explore the capabilities of the Vectorshift SDK. Happy cooking!
 
-### [personalized Email Generator](personalized_email_generator.ipynb)
+### [Personalized Email Generator](personalized_email_generator.ipynb)
 For sales and marketers to automatically generates customized email based on company information.
 
 ### [Image Generation Pipeline](image_generation.ipynb)
